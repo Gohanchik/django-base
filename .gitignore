@@ -1,0 +1,10 @@
+venv/
+.pylintrc
+__pyrache__/
+
+.vscode
+.idea
+.env
+
+db.sqlite3
+media/
