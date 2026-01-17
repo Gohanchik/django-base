@@ -1,6 +1,6 @@
 venv/
 .pylintrc
-__pyrache__/
+__pycache__/
 
 .vscode
 .idea
@@ -8,3 +8,4 @@ __pyrache__/
 
 db.sqlite3
 media/
+products/
